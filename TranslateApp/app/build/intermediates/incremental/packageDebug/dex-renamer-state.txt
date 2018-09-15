@@ -1,0 +1,7 @@
+#Fri Sep 14 20:27:45 CDT 2018
+base.0=C\:\\Users\\Rahul R Yerva\\Desktop\\ASE\\TranslateApp\\TranslateApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2c2a9570cee41df023b7493eb0827b7e2067a1b6
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\Rahul R Yerva\\Desktop\\ASE\\TranslateApp\\TranslateApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9b6e2d482e55e7a0d652b2d5b5cee266723ae659\\classes.dex
+base.1=C\:\\Users\\Rahul R Yerva\\Desktop\\ASE\\TranslateApp\\TranslateApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_9b6e2d482e55e7a0d652b2d5b5cee266723ae659
+file.0=C\:\\Users\\Rahul R Yerva\\Desktop\\ASE\\TranslateApp\\TranslateApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_2c2a9570cee41df023b7493eb0827b7e2067a1b6\\classes.dex
